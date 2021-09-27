@@ -1,7 +1,7 @@
 ## Welcome, Stranger 👋
 
 
--💻 Atualmente estudando HTML e CSS em CursoEmVideo
+-💻
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffreydantas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
